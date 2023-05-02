@@ -1,14 +1,45 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
+  <h1 align="center">  My name is João Nunes 🔥</h1> 
+</p>
 
-<!--
-**JOAONUNES96/JOAONUNES96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently looking for my first job as Junior Developer;
+- 🌱 I’m currently Java, JS, HTML CSS, SQL and Mobile Development;
+- ⚡ Doing projects in Java;
+- 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:nunesjp96l@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-joao-nunes/)](https://www.linkedin.com/in/filipeantoniomota/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915180455)
+- ⚡ Fun fact about me, I love dogs!;
+- 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
+- 😱 You can see my skills [here](https://github.com/Drete457/Drete457/blob/master/technicalSkills.md "here").
 
-Here are some ideas to get you started:
+## Technologies I know and I'm learning
+#### Backend
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+</p>
 
-- 🔭 I’m currently looking for my first job as a Junior Developer.
-- 🌱 I’m currently learning Java JS, CSS, HTML and SQLa and Mobile Development.
-- 👯 I’m looking to collaborate on Fullstack projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+#### Frontend
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+</p>
 
--->
+#### Database
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+</p>
+
+## Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JOAONUNES96" alt="JOAONUNES96" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Drete457" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
+</div>
+
+## Let's connect:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JOAONUNES96)](https://github.com/JOAONUNES96)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-joao-nunes/)](https://www.linkedin.com/in/dev-joao-nunes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunesjp96@gmail.com)](mailto:nunesjp96@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915180455)
+
+⭐️ From [Filipe Mota](https://github.com/JOAONUNES96)
