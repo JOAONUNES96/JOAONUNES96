@@ -8,8 +8,7 @@
 - ⚡ Doing projects in Java;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:nunesjp96l@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-joao-nunes/)](https://www.linkedin.com/in/filipeantoniomota/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915180455)
 - ⚡ Fun fact about me, I love dogs!;
-- 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
-- 😱 You can see my skills [here](https://github.com/Drete457/Drete457/blob/master/technicalSkills.md "here").
+
 
 ## Technologies I know and I'm learning
 #### Backend
