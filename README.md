@@ -32,8 +32,8 @@
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JOAONUNES96" alt="JOAONUNES96" /></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Drete457" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=JOAONUNES96" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=JOAONUNES96" height="150" alt="languages graph"  />
 </div>
 
 ## Let's connect:
@@ -42,4 +42,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunesjp96@gmail.com)](mailto:nunesjp96@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915180455)
 
-⭐️ From [Filipe Mota](https://github.com/JOAONUNES96)
+⭐️ From [João Nunes](https://github.com/JOAONUNES96)
