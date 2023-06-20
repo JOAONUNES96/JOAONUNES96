@@ -14,8 +14,14 @@
 #### Backend
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
- <img src="![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png)) alt="java" width="60" height="60"/>
-  <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png?raw=true" alt="java" width="60" height="60"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png?raw=true" alt="spring" width="60" height="60"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/2560px-Amazon_Web_Services_Logo.svg.png?raw=true" alt="aws" width="60" height="60"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/2560px-Scala-full-color.svg.png?raw=true" alt="scala" width="60" height="60"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/hibernate.png?raw=true" alt="hibernate" width="60" height="60"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/elastic-logo-920x920-sue-v02.png?raw=true" alt="elastic" width="60" height="60"/>
+
+
+
 
 </p>
 
