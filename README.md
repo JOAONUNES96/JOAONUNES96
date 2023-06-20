@@ -14,6 +14,7 @@
 #### Backend
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="  https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png" alt="java" width="60" height="60"/>
 </p>
 
 #### Frontend
