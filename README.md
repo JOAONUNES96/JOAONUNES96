@@ -3,8 +3,8 @@
   <h1 align="center">  My name is João Nunes 🔥</h1> 
 </p>
 
-- 🔭 I’m currently looking for my first job as Junior Developer;
-- 🌱 I’m currently learning Java, SpringBoot, Hibernate, AWS and Scala;
+- 🔭 I’m currently looking for my first job as Backend Junior Developer;
+- 🌱 I’m currently learning Java, SpringBoot, Hibernate, AWS, Elastic Search and Scala;
 - ⚡ Doing projects in Java;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:nunesjp96l@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-joao-nunes/)](https://www.linkedin.com/in/dev-joao-nunes/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915180455)
 - ⚡ Fun fact about me, I love sports, dogs and cooking!
