@@ -15,6 +15,8 @@
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
  <img src="![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png)) alt="java" width="60" height="60"/>
+  <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png?raw=true" alt="java" width="60" height="60"/>
+
 </p>
 
 #### Frontend
