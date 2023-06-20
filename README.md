@@ -26,7 +26,7 @@
 #### Database
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
-  <img src="![spring-boot](https://github.com/JOAONUNES96/JOAONUNES96/assets/116366430/b5955f58-f494-4c23-ba6a-c72734246910)" alt="mysql" width="60" height="60"/>
+  <img src="" alt="springboot" width="60" height="60"/>
 </p>
 
 ## Statistics
