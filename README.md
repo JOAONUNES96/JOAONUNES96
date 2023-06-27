@@ -16,7 +16,7 @@
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" height="60" style="margin-right:20px;"/>
 <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/spring-boot.png?raw=true" alt="spring" height="60" style="margin-right:20px;"/>
 <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/2560px-Amazon_Web_Services_Logo.svg.png?raw=true" alt="aws" height="50" style="margin-right:20px;"/>
-<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/2560px-Scala-full-color.svg.png?raw=true" alt="scala" height="60" style="margin-right:20px; margin-top:15px;"/>
+<img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/2560px-Scala-full-color.svg.png?raw=true" alt="scala" height="60" style="margin-right:20px; margin-top:30px;"/>
 <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/hibernate.png?raw=true" alt="hibernate" height="60" style="margin-right:20px;"/>
 <img src="https://github.com/JOAONUNES96/JOAONUNES96/blob/main/images/elastic-logo-920x920-sue-v02.png?raw=true" alt="elastic" height="80" style="margin-right:20px;"/>
 </p>
